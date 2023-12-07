@@ -1,0 +1,8 @@
+FUNÇÃO BUBLE_SORT: Pior Caso: O(n²) ----- Caso Médio: O(n²) ----- Melhor Caso: O(n)
+
+FUNÇÃO BUBLE_SORT 2: Pior Caso: O(n²) ----- Caso Médio: O(n²) ----- Melhor Caso: O(n)
+
+
+FUNÇÃO ALGUMA COISA : Pior Caso: O(n³) ----- Caso Médio: O(n³) ----- Melhor Caso: O(1)
+
+FUNÇÃO ALGUMA COISA 2 : Pior Caso: O(n³) ----- Caso Médio: O(n³) ----- Melhor Caso:O(1)
