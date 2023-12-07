@@ -1,0 +1,7 @@
+1° ALGORITMO: Custo = n * n = n^2. Ele é um laço do tipo aninhado e nele o laço interno é executado n vezes por iteração do laço externo.
+
+2° ALGORITMO: Custo = n * log2(n) = n log2(n). Também é um laço do tipo aninhado e nele o laço interno é executado n vezes
+   por iteração do laço externo, mas nesse caso o número de iterações do laço externo é limitado por log2(n).
+
+3° ALGORITMO: Custo = n * (n/1) + n * (n/2) + n * (n/4) + ... = 2n^2/3. Este também é um laço do tipo aninhado como o 1° e o 2° e nele o laço
+   interno é executado n/i vezes por iteração do laço externo.
